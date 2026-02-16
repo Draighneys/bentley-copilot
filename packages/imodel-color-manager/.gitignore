@@ -1,0 +1,14 @@
+# Node.js standard ignores
+
+# Dependency directories
+node_modules/
+dist/
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
+
+# Log files
+*.log
